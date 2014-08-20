@@ -27,7 +27,7 @@ class GetOrgData
     node << "<td>#{parent_id}</td>"
     node << "<td>#{name}</td>"
     node << "<td>#{title}</td>"
-    node << "<td>#{image}{</td>"
+    node << "<td>#{image}</td>"
     node << "</tr>"
     node.html_safe
   end
