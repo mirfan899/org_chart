@@ -48,6 +48,7 @@ In your controller create nodes i.e.
     end
 
 Finally add nodes to view simply:
+
     <%=	 GetOrgData.to_start %>
     <%=	 @node.to_node %>
     <%=	 @node2.to_node %>
