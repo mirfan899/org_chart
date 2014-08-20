@@ -7,7 +7,7 @@ This gem makes it easy to use it with Rails Asset Pipeline.
 
 Add this line to your application's Gemfile:
 
-    gem "org_chart" -v=0.0.3
+    gem "org_chart", "~>0.0.3"
 
 And then execute:
 
