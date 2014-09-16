@@ -1,4 +1,4 @@
-# GetOrgChart.js for Rails Asset Pipeline
+# GetOrgChart.js for Rails Asset Pipeline [![Gem Version](https://badge.fury.io/rb/org_chart.svg)](http://badge.fury.io/rb/org_chart)
 
 [getorgchart.js](http://www.getorgchart.com/) is an awesome javascript library for creating organizational chart ([documentation](http://www.getorgchart.com/Documentation)).
 This gem makes it easy to use it with Rails Asset Pipeline.
